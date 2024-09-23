@@ -1,6 +1,6 @@
 Java Calculator with Reverse Polish Notation (RPN)
 
-This project is a powerful and lightweight calculator built in Java. It uses Reverse Polish Notation (RPN) for accurate and efficient expression evaluation. The calculator supports basic arithmetic operations: +, -, *, /, and handles parentheses for complex expressions.
+This project is a powerful and lightweight calculator built in Java. It uses Reverse Polish Notation (RPN) for accurate and efficient expression evaluation. The calculator supports basic arithmetic operations: +, -, *, /, ^ and handles parentheses for complex expressions.
 
 Features:
 Supports addition, subtraction, multiplication, and division.
